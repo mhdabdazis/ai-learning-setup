@@ -1,7 +1,7 @@
 # AI Tools Setup Project
 
 ## Overview
-This project documents the process of setting up and exploring AI-powered development tools using Cursor IDE. The goal is to understand how modern AI tools integrate into a developer workflow and how to troubleshoot issues independently.
+This project documents the process of setting up and exploring AI-powered development tools using Cursor IDE. The focus was not only on installation, but also on troubleshooting real issues and understanding how these tools integrate into a workflow.
 
 ---
 
@@ -15,12 +15,30 @@ This project documents the process of setting up and exploring AI-powered develo
 
 ## Steps Completed
 1. Installed Cursor IDE
-2. Installed Claude Code extension and explored its setup requirements
-3. Installed Codex extension and successfully logged in using ChatGPT account
+2. Installed Claude Code and Codex extensions inside Cursor
+3. Logged in to Codex using ChatGPT account
 4. Created a public GitHub repository
-5. Opened and managed the repository inside Cursor
-6. Created and edited README.md file
-7. Committed and pushed changes to GitHub
+5. Connected repository to Cursor
+6. Created and updated README.md
+7. Committed and pushed project to GitHub
+
+---
+
+## Screenshots
+
+### 1. Extensions Successfully Installed
+![Claude Extension](https://getshared.com/d/rzgtgyTY)
+![Codex Extension](https://getshared.com/d/QiI62Ms3)
+
+---
+
+### 2. Claude Error (Git Bash Required)
+![Claude Error](PASTE-LINK-GAMBAR-3)
+
+---
+
+### 3. After Fix (Git Installed & Cursor Reloaded)
+![Claude Fixed](PASTE-LINK-GAMBAR-4)
 
 ---
 
@@ -28,47 +46,43 @@ This project documents the process of setting up and exploring AI-powered develo
 
 ### Issue 1: Installed extensions in the wrong place (Chrome instead of Cursor)
 **Solution:**  
-Realized that extensions must be installed inside Cursor IDE (similar to VS Code), not in the browser. Reinstalled correctly via the Extensions Marketplace in Cursor.
+Reinstalled extensions correctly via Cursor's Extension Marketplace instead of browser extensions.
 
 ---
 
-### Issue 2: Claude Code error on Windows (requires Git Bash)
+### Issue 2: Claude Code error on Windows (Git Bash required)
 **Solution:**  
-Installed Git for Windows and ensured Git Bash was available. Restarted Cursor to allow Claude Code to function properly.
+Installed Git for Windows and restarted Cursor. This resolved the environment dependency issue and allowed Claude Code to run properly.
 
 ---
 
 ### Issue 3: Unclear login flow for extensions
 **Solution:**  
-Explored different entry points such as Command Palette, terminal, and extension panels. Found that login is often triggered when the tool is first used, not during installation.
+Explored multiple access points (Command Palette, extension panel, and terminal). Learned that login is triggered during usage, not installation.
 
 ---
 
 ### Issue 4: Confusion about AI interface in Cursor
 **Solution:**  
-Learned that Cursor uses a unified AI system ("Agent") instead of separate interfaces for each extension. Interacted with AI using:
-- Inline commands (Ctrl + K)
-- Agent panel
-- Extension interfaces
+Discovered that Cursor uses a unified AI system (Agent) instead of separate interfaces for each extension, simplifying interaction.
 
 ---
 
 ## Learnings
-- Learned how to set up and integrate AI tools within a development environment
-- Understood the GitHub workflow (repository creation, commit, push)
-- Improved ability to troubleshoot technical issues independently
-- Gained hands-on experience with AI-assisted coding tools
+- Learned how to properly set up AI tools inside a development environment
+- Understood how GitHub repositories work (commit & push workflow)
+- Improved problem-solving skills through real troubleshooting
+- Learned how modern AI tools integrate into coding workflows
 
 ---
 
 ## Personal Insights
-- Initially, I thought this task was purely about installation, but it turned out to be more about problem-solving and exploration.
-- I realized that modern AI tools simplify many technical barriers, but still require clear thinking and experimentation to use effectively.
-- The biggest challenge was not the tools themselves, but understanding how to navigate and activate them within the workflow.
-- This experience shifted my approach from passively following tutorials to actively figuring things out.
-- AI tools like Cursor, Codex, and Claude can significantly accelerate learning, but they depend heavily on how well the user interacts with them.
+- Initially, I assumed this task was about installation, but it turned out to be more about problem-solving and adaptability.
+- The most valuable part of this process was handling real errors and figuring out solutions independently.
+- AI tools significantly reduce the barrier to entry, but effective usage still requires structured thinking and experimentation.
+- I realized that modern tools abstract complexity, meaning users focus more on outcomes rather than configurations.
 
 ---
 
 ## Conclusion
-This project demonstrates not only the ability to set up AI tools, but also the mindset of exploring, troubleshooting, and adapting to new technologies independently. It reflects a practical approach to learning and working with modern AI-powered development environments.
+This project demonstrates not only the ability to set up AI tools, but also the capability to troubleshoot, adapt, and understand how these tools fit into real-world workflows.
