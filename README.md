@@ -27,18 +27,18 @@ This project documents the process of setting up and exploring AI-powered develo
 ## Screenshots
 
 ### 1. Extensions Successfully Installed
-![Claude Extension](/CLAUDE EXT INSTALLED IN CURSOR.png)
-![Codex Extension](/CODEX EXT INSTALLED IN CURSOR.png)
+![Claude Extension](/claude-installed.png)
+![Codex Extension](/codex-installed.png)
 
 ---
 
 ### 2. Claude Error (Git Bash Required)
-![Claude Error](/CLAUDE ERROR NEED GITBASH IN CURSOR.png)
+![Claude Error](/claude-error.png)
 
 ---
 
 ### 3. After Fix (Git Installed & Cursor Reloaded)
-![Claude Fixed](/CLAUDE SOLVED INSTALL GITBASH IN WINDOWS.png)
+![Claude Fixed](/claude-fixed.png)
 
 ---
 
