@@ -27,18 +27,18 @@ This project documents the process of setting up and exploring AI-powered develo
 ## Screenshots
 
 ### 1. Extensions Successfully Installed
-![Claude Extension](<img width="2552" height="1520" alt="Cuplikan layar 2026-04-05 203705" src="https://github.com/user-attachments/assets/26cc494d-f97b-4fa6-a19c-b238f9766979" />)
-![Codex Extension](<img width="2552" height="1520" alt="Cuplikan layar 2026-04-05 203722" src="https://github.com/user-attachments/assets/1ef110fe-ec48-4f81-8154-fdefb0a9af4a" />)
+![Claude Extension](/CLAUDE EXT INSTALLED IN CURSOR.png)
+![Codex Extension](/CODEX EXT INSTALLED IN CURSOR.png)
 
 ---
 
 ### 2. Claude Error (Git Bash Required)
-![Claude Error](<img width="2543" height="1524" alt="Cuplikan layar 2026-04-05 203845" src="https://github.com/user-attachments/assets/91ae9e7c-41a8-46a6-8c42-0b407e854562" />)
+![Claude Error](/CLAUDE ERROR NEED GITBASH IN CURSOR.png)
 
 ---
 
 ### 3. After Fix (Git Installed & Cursor Reloaded)
-![Claude Fixed](<img width="2551" height="1515" alt="Cuplikan layar 2026-04-05 204228" src="https://github.com/user-attachments/assets/18673ed7-5d32-4e59-a806-3f1b00d5bde5" />)
+![Claude Fixed](/CLAUDE SOLVED INSTALL GITBASH IN WINDOWS.png)
 
 ---
 
