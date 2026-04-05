@@ -27,18 +27,18 @@ This project documents the process of setting up and exploring AI-powered develo
 ## Screenshots
 
 ### 1. Extensions Successfully Installed
-![Claude Extension](https://getshared.com/d/rzgtgyTY)
-![Codex Extension](https://getshared.com/d/QiI62Ms3)
+![Claude Extension](<img width="2552" height="1520" alt="Cuplikan layar 2026-04-05 203705" src="https://github.com/user-attachments/assets/26cc494d-f97b-4fa6-a19c-b238f9766979" />)
+![Codex Extension](<img width="2552" height="1520" alt="Cuplikan layar 2026-04-05 203722" src="https://github.com/user-attachments/assets/1ef110fe-ec48-4f81-8154-fdefb0a9af4a" />)
 
 ---
 
 ### 2. Claude Error (Git Bash Required)
-![Claude Error](PASTE-LINK-GAMBAR-3)
+![Claude Error](<img width="2543" height="1524" alt="Cuplikan layar 2026-04-05 203845" src="https://github.com/user-attachments/assets/91ae9e7c-41a8-46a6-8c42-0b407e854562" />)
 
 ---
 
 ### 3. After Fix (Git Installed & Cursor Reloaded)
-![Claude Fixed](PASTE-LINK-GAMBAR-4)
+![Claude Fixed](<img width="2551" height="1515" alt="Cuplikan layar 2026-04-05 204228" src="https://github.com/user-attachments/assets/18673ed7-5d32-4e59-a806-3f1b00d5bde5" />)
 
 ---
 
